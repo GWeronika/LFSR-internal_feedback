@@ -3,6 +3,8 @@ Random number generation with linear feedback shift register (LFSR)
 
 LFSR inner feedback is a type of feedback where the signal from the output of the last flip-flop is fed to its inputs.
 
+![internal_feedback](https://user-images.githubusercontent.com/126601389/224120046-ff86207b-159b-4e7c-940d-c9201b1c1865.png)
+
 
 Project LFSR-internal_feedback:
 
